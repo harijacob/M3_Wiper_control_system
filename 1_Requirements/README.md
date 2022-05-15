@@ -62,3 +62,9 @@ High Level Requirements
 | HLR3  | It shall seen speed of the wiper work |
 | HLR4  | It will stop the wiper |
 | HLR 5 | It will stop the car |
+
+Low Level Requirements
+---
+| ID | Low level requirements for HLR1 |
+| ---- | -----------------|
+| LLR1.1 |	If the User button is pressed Once, the red LED will be on | 
