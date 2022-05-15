@@ -30,25 +30,25 @@ A wiper speed control system for an automobile manages the wiper's functioning s
 You can adjust the speed of the car wiper system according to the rainfall.
 # SWOT ANALYSIS:
 # STRENGTH:
-Good Reputation
-Big Influence on the Market
-High Bargaining Power Supliers
-Low Budget
+* Good Reputation
+* Big Influence on the Market
+* High Bargaining Power Supliers
+* Low Budget
 # WEAKNESS:
-Week Focus on Process Innovations
-High Transaction Cost
-Structural Inertia
-No Focus on Private Sector
+* Week Focus on Process Innovations
+* High Transaction Cost
+* Structural Inertia
+* No Focus on Private Sector
 # OPPORTUNITIES:
-Technological Lock in of Product
-Technological Development
-Demand for Saver Equipments
-Emerging New Markets
+* Technological Lock in of Product
+* Technological Development
+* Demand for Saver Equipments
+* Emerging New Markets
 # THREATS:
-Highly REgulated Industry
-Ethical Pressure
-Low Bargaining Power Buyers
-Econimical Crisis
+* Highly REgulated Industry
+* Ethical Pressure
+* Low Bargaining Power Buyers
+* Econimical Crisis
 # Exploring STM32F407 Discovery Board:
 ![168215005-061df6d3-4596-4639-8eea-13b069ee27cb](https://user-images.githubusercontent.com/101524751/168474169-a1782656-e063-4074-98eb-99b9f1bfd4ac.png)
 
