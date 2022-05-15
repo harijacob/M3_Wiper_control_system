@@ -57,5 +57,8 @@ High Level Requirements
 ---
 | ID | High Level Requirements |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| HLR1  |  It will start the car |
+| HLR2  |  It will start the wiper |
+| HLR3  | It shall seen speed of the wiper work |
+| HLR4  | It will stop the wiper |
+| HLR 5 | It will stop the car |
