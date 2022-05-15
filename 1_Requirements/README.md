@@ -2,7 +2,7 @@
 
 # About the project WCS
 
-Description
+# Description
 This Project is an Wiper control (WCS) system,a wiper control system for an automotive wiper controls the operational speed of a wiper in accordance with rain conditions.It useful in the automotive unit the main purpose of the system is to clean the windscreen sufficiently to provide suitable visibility at all times.
 Identifying features
 When the button is pressed once the car will start (Ignition key postion at ACC)
