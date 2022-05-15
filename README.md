@@ -7,3 +7,15 @@ The Wiper speed control system controls the operational speed of the wiper in ac
 * Follow Modular programming and multifile approach
 * Create Makefile with targets for compiling and testing, analysis and coverage.
 * Follow best practices while writing the code.
+## Integrated Tools to GitHub
+* Codacy
+## GitHub Actions
+* Build using Make for CI
+* Unit tests with Cunit
+* Static code analysis using cppcheck
+* Dynamic Code analysis using Valgrind
+## Learning Resources
+markdownCheatsheet
+markdownBasics
+git inspector
+github workflow
