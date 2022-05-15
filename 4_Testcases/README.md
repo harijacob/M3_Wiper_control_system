@@ -5,4 +5,8 @@
 * Wiper Speed is HIGH
 * User button is pressed and hold for 2 seconds, the red LED is off
 # TEST CASES and Corresponding Output:
-
+## HIGH LEVEL TEST PLAN
+| Test | Description | Exp i/p | Exp o/p | Actual Output | Type of Test |
+   ID
+--------------------------------------------------------------------------
+| H_01 | 
