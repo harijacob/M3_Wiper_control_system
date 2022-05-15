@@ -19,4 +19,3 @@ The Wiper speed control system controls the operational speed of the wiper in ac
 * markdownBasics
 * git inspector
 * github workflow
-M3_Wiper_control_system
