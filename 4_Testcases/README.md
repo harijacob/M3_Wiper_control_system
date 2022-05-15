@@ -6,7 +6,6 @@
 * User button is pressed and hold for 2 seconds, the red LED is off
 # TEST CASES and Corresponding Output:
 ## HIGH LEVEL TEST PLAN
-| Test | Description | Exp i/p | Exp o/p | Actual Output | Type of Test |
-   ID
+| Test ID | Description | Exp i/p | Exp o/p | Actual Output | Type of Test |
 --------------------------------------------------------------------------
 | H_01 | 
