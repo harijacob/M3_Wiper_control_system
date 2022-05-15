@@ -5,4 +5,4 @@
 * Wiper Speed is HIGH
 * User button is pressed and hold for 2 seconds, the red LED is off
  TEST CASES and Corresponding Output:
-=========
+ =====================================
