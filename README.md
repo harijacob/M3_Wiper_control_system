@@ -15,7 +15,7 @@ The Wiper speed control system controls the operational speed of the wiper in ac
 * Static code analysis using cppcheck
 * Dynamic Code analysis using Valgrind
 ## Learning Resources
-markdownCheatsheet
-markdownBasics
-git inspector
-github workflow
+* markdownCheatsheet
+* markdownBasics
+* git inspector
+* github workflow
